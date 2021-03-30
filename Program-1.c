@@ -17,3 +17,4 @@ printf("Enter a String: ")
                       //Print the string
 return 0;
 }
+                                  
